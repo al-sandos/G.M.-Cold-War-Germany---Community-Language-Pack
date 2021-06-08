@@ -66,6 +66,7 @@
 				<German>Januar</German>
 				<Chinesesimp>一月</Chinesesimp>
 				<Chinese>一月</Chinese>
+				<Korean>1월</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_2">
 				<Original>February</Original>
@@ -73,6 +74,7 @@
 				<German>Februar</German>
 				<Chinesesimp>二月</Chinesesimp>
 				<Chinese>二月</Chinese>
+				<Korean>2월</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_3">
 				<Original>March</Original>
@@ -80,6 +82,7 @@
 				<German>März</German>
 				<Chinesesimp>三月</Chinesesimp>
 				<Chinese>三月</Chinese>
+				<Korean>3월</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_4">
 				<Original>April</Original>
@@ -87,6 +90,7 @@
 				<German>April</German>
 				<Chinesesimp>四月</Chinesesimp>
 				<Chinese>四月</Chinese>
+				<Korean>4월</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_5">
 				<Original>May</Original>
@@ -94,6 +98,7 @@
 				<German>Mai</German>
 				<Chinesesimp>五月</Chinesesimp>
 				<Chinese>五月</Chinese>
+				<Korean>5월</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_6">
 				<Original>June</Original>
@@ -101,6 +106,7 @@
 				<German>Juni</German>
 				<Chinesesimp>六月</Chinesesimp>
 				<Chinese>六月</Chinese>
+				<Korean>6월</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_7">
 				<Original>July</Original>
@@ -108,6 +114,7 @@
 				<German>Juli</German>
 				<Chinesesimp>七月</Chinesesimp>
 				<Chinese>七月</Chinese>
+				<Korean>7월</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_8">
 				<Original>August</Original>
@@ -115,6 +122,7 @@
 				<German>August</German>
 				<Chinesesimp>八月</Chinesesimp>
 				<Chinese>八月</Chinese>
+				<Korean>8월</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_9">
 				<Original>September</Original>
@@ -122,6 +130,7 @@
 				<German>September</German>
 				<Chinesesimp>九月</Chinesesimp>
 				<Chinese>九月</Chinese>
+				<Korean>9월</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_10">
 				<Original>October</Original>
@@ -129,6 +138,7 @@
 				<German>Oktober</German>
 				<Chinesesimp>十月</Chinesesimp>
 				<Chinese>十月</Chinese>
+				<Korean>10월</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_11">
 				<Original>November</Original>
@@ -136,6 +146,7 @@
 				<German>November</German>
 				<Chinesesimp>十一月</Chinesesimp>
 				<Chinese>十一月</Chinese>
+				<Korean>11월</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_12">
 				<Original>December</Original>
@@ -143,6 +154,7 @@
 				<German>Dezember</German>
 				<Chinesesimp>十二月</Chinesesimp>
 				<Chinese>十二月</Chinese>
+				<Korean>12월</Korean>
 			</Key>
 			<Key ID="STR_DES_GM">
 				<Original>It's 1983, Arma 3 is taken back to the Cold War, this time in northern Germany!%1&lt;img size='9' shadow='0' image='gm\gm_core\data\images\gm_image_welcome_co.paa' /&gt;%1%2&quot;State Scarlet&quot; - a 10 mission singleplayer campaign that takes you to East and West Germany in 1983%1%2 a selection of 13 Coop Multiplayer Missions to get you started with your friends right away, plus a small variety of adversarial scenarios.%1%2&quot;Fashion Police&quot; Multiplayer Deathmatch Game Mode with a twist.%1%2 Weferlingen - a terrain encompassing over 400km² useable area. It is located in northern Germany and contains parts of both Germanies divided by an accurate recreation of the Inner German Border. Using entirely newly made assets. A full winter-version of this terrain is also available.%1%2 Factions - West German Army, West German Borderguards, East German Army, East German Borderguards, Danish Army, German Civilians%1%2 Wheeled Assets West Germany - K125 gl Motorcycle, Truck 0.5t, Truck 0.5t ATGM, Truck 2t Transport, Truck 2t Medical, Truck 2t Repair, Truck 5t Transport, Truck 5t Ammo, Truck 5t Fuel, Truck 10t Transport, TPz 1A0 Engineer, TPz 1A0 HQ, TPz 1A0 Recon%1%2 Tracked Assets West Germany - BPz 2A0, KPz1A1, KPz 1A3, SPAA FlakPz 1A1, M113A1G APC, M113A1G APC ATGM, M113A1G Command Vehicle, M113A1G Medical%1%2 Infantry Assets West Germany - Army Units Summer, Army Units Autumn, Army Units Winter, Borderguards Units Summer%1%2 Weapons West Germany - G3A3 Rifle, G3A4 Rifle, MG3 Machinegun, MP2A1 SMG, P1 Handgun, P2A1 Flare Gun, Pzf44 Anti-Tank Launcher, Pzf84 Heavy Anti-Tank Launcher, LATGM Tripod, Handgrenades, Rifle Grenades, Binoculars, Various Scopes%1%2 Wheeled Assets East Germany - SPW-40P, SPW-40PU, SPW-60PA, SPW-60PB, SPW-60PU12, Truck 5 Mp Fuel, Truck 5 Mp Medical, Truck 5 Repair, Truck 5 Reammo, Truck 5 Tractor, Truck 5 Transport%1%2 Tracked Assets East Germany - BMP-1 SP2, T-55A, ZSU-23-4V1%1%2 Infantry Assets East Germany - Army Units Summer, Army Winter Units, Borderguards Units Summer%1%2 Weapons East Germany - MPi-KM72, MPi-KMS72, RPK, MPi AK74N, MPi AKS74N, MPi AKS74NK, RPK-74, PKM Machinegun, Pistol M, LP-1 Flaregun, RPG-7 Anti-Tank Launcher, Fagot ATGM Tripod, Binoculars%1%2 Assets Denmark - KPz 1A3, BPz 2A0, Danish Army Summer Uniform, Danish Army Winter Uniform%1%2 Assets Civilians - P601 East German Car, Typ 1200 West German Car, Bicycle, Civilian Clothing, Policemen, Firemen, Postmen%1%2 Sound Track - new music.</Original>
@@ -159,6 +171,7 @@
 				<German>Bulgarien</German>
 				<Chinesesimp>保加利亚</Chinesesimp>
 				<Chinese>保加利亞</Chinese>
+				<Korean>불가리아</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_CZ">
 				<Original>Czechoslovakia</Original>
@@ -166,6 +179,7 @@
 				<German>Tschechoslowakei</German>
 				<Chinesesimp>捷克斯洛伐克</Chinesesimp>
 				<Chinese>捷克斯洛伐克</Chinese>
+				<Korean>체코슬로바키아</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_CS">
 				<Original>Czechoslovakia</Original>
@@ -173,6 +187,7 @@
 				<German>Tschechoslowakei</German>
 				<Chinesesimp>捷克斯洛伐克</Chinesesimp>
 				<Chinese>捷克斯洛伐克</Chinese>
+				<Korean>체코슬로바키아</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GC">
 				<Original>East Germany</Original>
@@ -180,6 +195,7 @@
 				<German>DDR</German>
 				<Chinesesimp>民主德国</Chinesesimp>
 				<Chinese>民主德國</Chinese>
+				<Korean>동독</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_HU">
 				<Original>Hungary</Original>
@@ -187,6 +203,7 @@
 				<German>Ungarn</German>
 				<Chinesesimp>匈牙利</Chinesesimp>
 				<Chinese>匈牙利</Chinese>
+				<Korean>헝가리</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PL">
 				<Original>Poland</Original>
@@ -194,6 +211,7 @@
 				<German>Polen</German>
 				<Chinesesimp>波兰</Chinesesimp>
 				<Chinese>波蘭</Chinese>
+				<Korean>폴란드</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PL_WIN">
 				<Original>Poland (Winter)</Original>
@@ -201,6 +219,7 @@
 				<German>Polen (Winter)</German>
 				<Chinesesimp>波兰(冬季)</Chinesesimp>
 				<Chinese>波蘭（冬季）</Chinese>
+				<Korean>폴란드(겨울)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_RO">
 				<Original>Romania</Original>
@@ -208,6 +227,7 @@
 				<German>Rumänien</German>
 				<Chinesesimp>罗马尼亚</Chinesesimp>
 				<Chinese>羅馬尼亞</Chinese>
+				<Korean>루마니아</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_UR">
 				<Original>Soviet Union</Original>
@@ -215,6 +235,7 @@
 				<German>Sowjetunion</German>
 				<Chinesesimp>苏联</Chinesesimp>
 				<Chinese>蘇聯</Chinese>
+				<Korean>소련</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_BE">
 				<Original>Belgium</Original>
@@ -222,6 +243,7 @@
 				<German>Belgien</German>
 				<Chinesesimp>比利时</Chinesesimp>
 				<Chinese>比利時</Chinese>
+				<Korean>벨기에</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_CA">
 				<Original>Canada</Original>
@@ -229,6 +251,7 @@
 				<German>Kanada</German>
 				<Chinesesimp>加拿大</Chinesesimp>
 				<Chinese>加拿大</Chinese>
+				<Korean>캐나다</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK">
 				<Original>Denmark</Original>
@@ -236,6 +259,7 @@
 				<German>Dänemark</German>
 				<Chinesesimp>丹麦</Chinesesimp>
 				<Chinese>丹麥</Chinese>
+				<Korean>덴마크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_FR">
 				<Original>France</Original>
@@ -243,6 +267,7 @@
 				<German>Frankreich</German>
 				<Chinesesimp>法国</Chinesesimp>
 				<Chinese>法國</Chinese>
+				<Korean>프랑스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_IC">
 				<Original>Iceland</Original>
@@ -250,6 +275,7 @@
 				<German>Island</German>
 				<Chinesesimp>冰岛</Chinesesimp>
 				<Chinese>冰島</Chinese>
+				<Korean>아이슬란드</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_IT">
 				<Original>Italy</Original>
@@ -257,6 +283,7 @@
 				<German>Italien</German>
 				<Chinesesimp>意大利</Chinesesimp>
 				<Chinese>意大利</Chinese>
+				<Korean>이탈리아</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_LU">
 				<Original>Luxembourg</Original>
@@ -264,6 +291,7 @@
 				<German>Luxemburg</German>
 				<Chinesesimp>卢森堡</Chinesesimp>
 				<Chinese>盧森堡</Chinese>
+				<Korean>룩셈부르크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NL">
 				<Original>Netherlands</Original>
@@ -271,6 +299,7 @@
 				<German>Niederlande</German>
 				<Chinesesimp>荷兰</Chinesesimp>
 				<Chinese>荷蘭</Chinese>
+				<Korean>네덜란드</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NO">
 				<Original>Norway</Original>
@@ -299,6 +328,7 @@
 				<German>Vereinigte Staaten</German>
 				<Chinesesimp>美国</Chinesesimp>
 				<Chinese>美國</Chinese>
+				<Korean>미국</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_SE">
 				<Original>Sweden</Original>
@@ -327,6 +357,7 @@
 				<German>Deutschland</German>
 				<Chinesesimp>联邦德国</Chinesesimp>
 				<Chinese>聯邦德國</Chinese>
+				<Korean>서독</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_SP">
 				<Original>Spain</Original>
@@ -362,6 +393,7 @@
 				<German>Schweden</German>
 				<Chinesesimp>瑞典</Chinesesimp>
 				<Chinese>瑞典</Chinese>
+				<Korean>스웨덴</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_BU_BGS">
 				<Original>Bulgaria (Borderguards)</Original>
@@ -1477,6 +1509,7 @@
 				<English>Infantry '80</English>
 				<German>Infanterie '80</German>
 				<Chinesesimp>步兵(80年代)</Chinesesimp>
+				<Korean>보병'80</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_SQUAD_INFANTRY_90">
 				<Original>Infantry '90</Original>
@@ -11216,6 +11249,7 @@
 				<English>AKM 7.62x39 mm</English>
 				<German>AKM 7,62x39 mm</German>
 				<Chinesesimp>AKM 7.62x39 mm</Chinesesimp>
+				<Korean>AKM 7.62x39 mm</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AKM_WUD">
 				<Original>AKM 7.62x39 mm</Original>
@@ -12180,6 +12214,7 @@
 				<English>C79</English>
 				<German>C79</German>
 				<Chinesesimp>C79</Chinesesimp>
+				<Korean>C79</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_C79A1_BASE">
 				<Original>C79A1</Original>
@@ -15609,6 +15644,7 @@
 				<English>AP-T</English>
 				<German>AP-T</German>
 				<Chinesesimp>AP-T</Chinesesimp>
+				<Korean>AP-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_API">
 				<Original>API</Original>
@@ -16809,6 +16845,7 @@
 				<English>Engineers</English>
 				<German>Pioniere</German>
 				<Chinesesimp>工程兵</Chinesesimp>
+				<Korean>공병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GC_NBC">
 				<Original>Chemical Service</Original>
@@ -16833,6 +16870,7 @@
 				<English>Military Police</English>
 				<German>Militärjustiz</German>
 				<Chinesesimp>宪兵</Chinesesimp>
+				<Korean>헌병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GC_SIGNALS">
 				<Original>Military Intelligence</Original>
@@ -16851,12 +16889,14 @@
 				<English>Military Music</English>
 				<German>Militärmusikdienst</German>
 				<Chinesesimp>军乐</Chinesesimp>
+				<Korean>군가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GC_PARATROOPER">
 				<Original>Paratroopers</Original>
 				<English>Paratroopers</English>
 				<German>Fallschirmjäger</German>
 				<Chinesesimp>伞兵</Chinesesimp>
+				<Korean>공수부대</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GC_BORDER">
 				<Original>Borderguard</Original>
@@ -16875,6 +16915,7 @@
 				<English>Airforce</English>
 				<German>Luftstreitkräfte</German>
 				<Chinesesimp>空军</Chinesesimp>
+				<Korean>공군</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GC_CIVILIANPOLICE">
 				<Original>People's Police</Original>
@@ -21229,6 +21270,7 @@
 				<German>Adam</German>
 				<Chinesesimp>Adam</Chinesesimp>
 				<Russian>Adam</Russian>
+				<Korean>아담</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ANTON">
 				<Original>Anton</Original>
@@ -21236,6 +21278,7 @@
 				<German>Anton</German>
 				<Chinesesimp>Anton</Chinesesimp>
 				<Russian>Anton</Russian>
+				<Korean>안톤</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BENNY">
 				<Original>Benny</Original>
@@ -21250,6 +21293,7 @@
 				<German>Bo</German>
 				<Chinesesimp>Bo</Chinesesimp>
 				<Russian>Bo</Russian>
+				<Korean>보</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BRIAN">
 				<Original>Brian</Original>
@@ -26144,6 +26188,7 @@
 				<English>100x 100 M</English>
 				<German>100x 100 M</German>
 				<Chinesesimp>100x100马克</Chinesesimp>
+				<Korean>100x 100 미터</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MODULESIREN">
 				<Original>Siren</Original>
