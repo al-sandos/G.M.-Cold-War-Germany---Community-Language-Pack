@@ -307,6 +307,7 @@
 				<German>Norwegen</German>
 				<Chinesesimp>挪威</Chinesesimp>
 				<Chinese>挪威</Chinese>
+				<Korean>노르웨이</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PO">
 				<Original>Portugal</Original>
@@ -314,6 +315,7 @@
 				<German>Portugal</German>
 				<Chinesesimp>葡萄牙</Chinesesimp>
 				<Chinese>葡萄牙</Chinese>
+				<Korean>포르투갈</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_UK">
 				<Original>United Kingdom</Original>
@@ -321,6 +323,7 @@
 				<German>Vereinigtes Königreich</German>
 				<Chinesesimp>英国</Chinesesimp>
 				<Chinese>英國</Chinese>
+				<Korean>영국</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_US">
 				<Original>United States</Original>
@@ -800,6 +803,7 @@
 				<German>Schweden (Zivilisten)</German>
 				<Chinesesimp>瑞典（平民）</Chinesesimp>
 				<Chinese>瑞典（平民）</Chinese>
+				<Korean>스웨덴(시민)</Korean>
 			</Key>
 		</Container>
 		<Container name="Characters">
@@ -809,12 +813,14 @@
 				<German>Soldat (Unbewaffnet)</German>
 				<Chinesesimp>士兵（非武装）</Chinesesimp>
 				<Chinese>士兵（非武裝）</Chinese>
+				<Korean>군인(비무장)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_MEDIC_BASE">
 				<Original>Medic</Original>
 				<English>Medic</English>
 				<German>Sanitäter</German>
 				<Chinesesimp>医疗兵</Chinesesimp>
+				<Korean>의무병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_DEMOLITION_BASE">
 				<Original>Demolition</Original>
@@ -827,24 +833,28 @@
 				<English>Pioneer</English>
 				<German>Pionier</German>
 				<Chinesesimp>尖兵</Chinesesimp>
+				<Korean>공병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_CIVILIAN_BASE">
 				<Original>Civilian</Original>
 				<English>Civilian</English>
 				<German>Zivilist</German>
 				<Chinesesimp>平民</Chinesesimp>
+				<Korean>시민</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_RIFLEMAN_BASE">
 				<Original>Rifleman</Original>
 				<English>Rifleman</English>
 				<German>Schütze</German>
 				<Chinesesimp>步枪兵</Chinesesimp>
+				<Korean>소총수</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_RADIOMAN_BASE">
 				<Original>Radioman</Original>
 				<English>Radioman</English>
 				<German>Funker</German>
 				<Chinesesimp>无线电通信员</Chinesesimp>
+				<Korean>무전병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_ASSAULT_BASE">
 				<Original>Shock Trooper</Original>
@@ -863,6 +873,7 @@
 				<English>Grenadier</English>
 				<German>Grenadier</German>
 				<Chinesesimp>掷弹兵</Chinesesimp>
+				<Korean>유탄사수</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_HEAVYGRENADIER_BASE">
 				<Original>Heavy Grenadier</Original>
@@ -899,12 +910,14 @@
 				<English>Light Machinegunner Assistant</English>
 				<German>Leichter MG-Schütze 2</German>
 				<Chinesesimp>副轻机枪手</Chinesesimp>
+				<Korean>경기관총 부사수</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_ANTITANK_BASE">
 				<Original>Anti-Tank</Original>
 				<English>Anti-Tank</English>
 				<German>Panzerabwehrschütze</German>
 				<Chinesesimp>AT兵</Chinesesimp>
+				<Korean>대전차병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_HEAVYANTITANK_BASE">
 				<Original>Heavy Anti-Tank</Original>
@@ -929,6 +942,7 @@
 				<English>ATGM Gunner</English>
 				<German>PALR Schütze</German>
 				<Chinesesimp>ATGM射手</Chinesesimp>
+				<Korean>ATGM 사수</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_ANTIAIR_BASE">
 				<Original>Anti-Air</Original>
@@ -11772,6 +11786,7 @@
 				<English>Assault Rifle&lt;br /&gt;Caliber: 7.62x39 mm</English>
 				<German>Sturmgewehr&lt;br /&gt;Kaliber: 7,62x39 mm</German>
 				<Chinesesimp>突击步枪&lt;br /&gt;口径: 7.62x39 mm</Chinesesimp>
+				<Korean>돌격소총&lt;br /&gt;구경: 7,62x39 mm</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_RPK74_BASE">
 				<Original>Light Machinegun&lt;br /&gt;Caliber: 5.45x39 mm</Original>
@@ -15831,6 +15846,7 @@
 				<English>Smoke (Green)</English>
 				<German>Rauch (Grün)</German>
 				<Chinesesimp>烟雾弹(绿色)</Chinesesimp>
+				<Korean>연막탄(초록)</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_SMOKESHELL_RED">
 				<Original>Smoke (Red)</Original>
@@ -15861,6 +15877,7 @@
 				<English>Frag Grenade</English>
 				<German>Splittergranate</German>
 				<Chinesesimp>破片手雷</Chinesesimp>
+				<Korean>수류탄</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_HANDGRENADE_CONC">
 				<Original>Conc Grenade</Original>
@@ -16467,6 +16484,7 @@
 				<English>Gasmask SchM-41M</English>
 				<German>SchM-41M</German>
 				<Chinesesimp>SchM-41M型 防毒面具</Chinesesimp>
+				<Korean>SchM-41M 방독면</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_GC_ARMY_FACEWEAR_SCHM41M">
 				<Original>NBC Protection</Original>
@@ -16491,6 +16509,7 @@
 				<English>Beret</English>
 				<German>Barett</German>
 				<Chinesesimp>贝雷帽</Chinesesimp>
+				<Korean>베레모</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMY_HEADGEAR_M56">
 				<Original>Steel Helmet M56</Original>
@@ -22702,6 +22721,7 @@
 				<English>Ambush</English>
 				<German>Feuerüberfall</German>
 				<Chinesesimp>伏击</Chinesesimp>
+				<Korean>매복</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_03_TASK_03_TEXT">
 				<Original>An enemy convoy is coming our way. We are to take it out.</Original>
@@ -24945,6 +24965,7 @@
 				<Chinesesimp>gm_bgs_flyer_en_02.jpg</Chinesesimp>
 				<French>gm_bgs_flyer_fr_02.jpg</French>
 				<Russian>gm_bgs_flyer_en_02.jpg</Russian>
+				<Korean>gm_bgs_flyer_en_02.jpg</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_CALLSIGN_WESPE">
 				<Original>WESPE</Original>
@@ -25146,6 +25167,7 @@
 				<English>Sector 1</English>
 				<German>Sektor 1</German>
 				<Chinesesimp>防区1</Chinesesimp>
+				<Korean>구역1</Korean>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_06_TASK_01_TEXT">
 				<Original>Clear the sector from enemy vehicles.</Original>
@@ -30343,6 +30365,7 @@
 				<English>KPz 1A5NO2</English>
 				<German>KPz 1A5NO2</German>
 				<Chinesesimp>KPz 1A5NO2</Chinesesimp>
+				<Korean>KPz 1A5NO2</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_LEOPARD1A3DK">
 				<Original>KPz 1A3DK</Original>
@@ -32923,18 +32946,21 @@
 				<English>URAL 44202</English>
 				<German>URAL 44202</German>
 				<Chinesesimp>URAL 44202</Chinesesimp>
+				<Korean>URAL 44202</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_URAL4320_REAMMO">
 				<Original>URAL 4320 Ammo</Original>
 				<English>URAL 4320 Ammo</English>
 				<German>URAL 4320 Munition</German>
 				<Chinesesimp>URAL 4320(弹药)</Chinesesimp>
+				<Korean>URAL 4320(탄약)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ARMY_URAL4320_CARGO_BASE">
 				<Original>URAL 4320 Transport</Original>
 				<English>URAL 4320 Transport</English>
 				<German>URAL 4320 Transporter</German>
 				<Chinesesimp>URAL 4320(运输)</Chinesesimp>
+				<Korean>URAL 4320(수송)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ARMY_URAL4320_REPAIR_BASE">
 				<Original>URAL 4320 Repair</Original>
@@ -33083,6 +33109,7 @@
 				<English>2t</English>
 				<German>2t</German>
 				<Chinesesimp>2t</Chinesesimp>
+				<Korean>2t</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_DK_ARMY_U1300L_BASE">
 				<Original>2t</Original>
